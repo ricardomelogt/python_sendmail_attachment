@@ -10,8 +10,8 @@ from email import encoders
 # Configuração
 host = 'smtp.gmail.com'
 port = 587
-user = 'brunoreciprev@gmail.com'
-password = 'iimslkjfzevszgdu'
+user = 'email-here@gmail.com'
+password = 'email-password-here'
 
 # Criando objeto
 print('Criando objeto servidor...')
